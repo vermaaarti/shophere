@@ -16,6 +16,7 @@
    <link rel="stylesheet" type="text/css" href="../styling/index.css">
    <link rel="stylesheet" type="text/css" href="../styling/header.css">
    <link rel="stylesheet" type="text/css" href="../styling/footer.css">
+  
     <script src="../JS/header.js"></script>
      <script src="../JS/index.js"></script>
     <title>Ecommerce</title>
@@ -24,6 +25,7 @@
    
 <?php 
 include_once "header.php";
+ 
 ?>
 
 
@@ -684,11 +686,11 @@ include_once "header.php";
 
 
 <div class="content">
-<div id="top" class="city">
+<div id="top" class="city1">
 
 <div class="cardbelowcontainer">
   <div class="cardbelow loop1">
-    <a href="#"  style="text-decoration: none;">
+    <a href="perfumes.php"  style="text-decoration: none;">
    <div class="box1"> <div>
     <img src="https://shopme.online/image/cache/catalog/journal3/categories/Perfume%20Banner-200x250h.jpg" class="img-fluid img-responsive img3">
   </div>

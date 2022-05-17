@@ -1,0 +1,45 @@
+.text31{
+	color: white;
+	background-color:rgb(33, 77, 150);
+	padding: 1% 
+}
+.col-3, .col-8{
+	margin-top: 5%;
+}
+.perfume{
+	background-color: rgb(208, 212, 219);
+}
+.text32{
+	font-size: 30px;
+	font-weight: bolder;
+}
+.imgbox{
+	background-color: white;
+	padding: 2%; 
+}
+.img2container{
+display: inline-flex;
+}
+.makeup{
+	background-color: white;
+	padding: 2%; 
+}
+.fragrances{
+	background-color: white;
+	padding: 2%; 
+}
+.box2{
+	background-color: white;
+	padding: 1%; 
+	display: inline-flex;
+	margin: 12px;
+}
+.contentbox{
+	margin-top: 0px;
+	padding: 3%;
+	background-color: white; 
+}
+.price{
+	color: red;
+   font-size: 20px;
+}
