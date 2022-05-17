@@ -19,7 +19,7 @@
   
     <script src="../JS/header.js"></script>
      <script src="../JS/index.js"></script>
-    <title>Ecommerce</title>
+    <title>SHOPEO || An Ecommerce Website</title>
   </head>
   <body>
    
@@ -34,7 +34,7 @@ include_once "header.php";
     <img src="https://cdn.shopify.com/s/files/1/1825/4753/files/banner-custom-image-1_1920x_820b9a4b-0795-4480-a6c2-717e4d64df90_1920x.jpg?v=1638362928" class="img-fluid img-responsive imgmain" style="width: 100%;">
   </div>
   <div class="row">
-    <label class="offerpara">BRIGHTEN UP SOMEONE’S DAY UNDER $50. <a href="#"><b>SHOP NOW</b></a></label>
+    <label class="offerpara text-center">BRIGHTEN UP SOMEONE’S DAY UNDER $50. <a href="#"><b>SHOP NOW</b></a></label>
   </div>
 </section>
 
@@ -686,7 +686,7 @@ include_once "header.php";
 
 
 <div class="content">
-<div id="top" class="city1">
+<div id="top" class="city">
 
 <div class="cardbelowcontainer">
   <div class="cardbelow loop1">

@@ -11,8 +11,9 @@
     <!--about-->
     <a href="#"><i class="fa-solid fa-address-card"></i></a>
     <!--login/SignUp-->
-    <a href="#"><i class="fa-solid fa-right-to-bracket"></i></a>
-    <a href="#">Become Seller</a>
+    <a href="login.php"><i class="fa-solid fa-right-to-bracket"></i></a>
+    <a href="becomeseller.php">Become Seller</a>
+      <a href="vender.php">Vendors</a>
   </div>
 </div>
 
