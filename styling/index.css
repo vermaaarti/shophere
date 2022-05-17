@@ -1,0 +1,421 @@
+/*.offerpara{
+	padding: 50px;
+}*/
+
+hr{
+	height: 3px;
+	width: 80px;
+	background-color: rgb(102, 67, 7);
+	text-align: center; 
+	border: 2px solid rgb(102, 67, 7);
+	margin-bottom: 3%;
+}
+.section{
+	background-color: cyan;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 0px;
+}
+.diamond{
+	border-radius: 50%;
+	border: 2px solid white;
+	padding: 10px;
+	color: white;
+}
+.delivery{
+	border-radius: 50%;
+	border: 2px solid white;
+	padding: 10px;
+	color: white;
+}
+.percent{
+	border-radius: 50%;
+	border: 2px solid white;
+	padding: 10px;
+	color: white;
+}
+.star{
+	border-radius: 50%;
+	border: 2px solid white;
+	padding: 10px;
+	color: white;
+}
+span{
+	color: white;
+}
+.vl{
+	 border-left: 3px solid white;
+	 margin-left: 5px;
+}
+.text1{
+	text-align: center;
+	font-size: 27px;
+}
+.w3-bar{
+	text-align: center;
+}
+.content{
+	text-align: center;
+}
+.btn{
+	border:1px solid cyan;
+	padding: 10px;
+	border-radius: 10px;
+}
+.img1{
+	height: 160px;
+	width: 160px;
+}
+.text2{
+	color: blue;
+}
+.price{
+	color: red;
+font-size: 25px;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.text10{
+	font-weight: bolder;
+	font-size: 20px;
+}
+button:active{
+background: rgba(250, 0, 0,0.3);
+border: 2px solid red;
+}
+/*@media screen and (min-width: 678px){*/
+@media screen and (min-width: 803px){
+	.imgcontainer{
+	 display: inline-flex;
+	}
+}
+
+@media screen and (min-width: 480px){
+	.firsttwo{
+	 display: inline-flex;
+	}
+	.secondtwo{
+	 display: inline-flex;
+	}
+}
+.card{
+	box-shadow: 2px 2px 5px grey;
+	padding: 20px;
+	margin-left: 6px;
+	margin-right: 6px;
+}
+.contentSection{
+	/*border: 1px solid rgb(191, 190, 187);*/
+	box-shadow: 1px 1px 4px rgb(191, 190, 187);
+	padding: 10px;
+}
+.text3{
+	font-size: 30px;
+	font-weight: bolder;
+}
+.left1{
+	float: left;
+}
+.right1{
+	float: right;
+}
+.text4{
+	font-weight: bold;
+	font-size: 14px;
+	text-align: center;
+}
+.text5{
+	font-weight: bolder;
+	font-size: 50px;
+	text-align: center;
+}
+.text6{
+	font-size: 13px;
+	color: grey;
+	text-align: center;
+	padding: 2%;
+	margin: 2%;
+}
+.part6{
+	margin-top: 3%;
+	/*background-color: rgb(53, 102, 135);
+*/}
+.row1{
+	padding-left:10% ;
+	padding-right: 10%;
+}
+.textcontainer{
+	padding: 3%;
+	margin: 2%;
+}
+.btn1{
+/*	padding-left:30px ;
+	padding-right: 30px;*/
+	padding: 10px 30px;
+	background-color: rgb(10, 57, 89);
+	color: white;
+	margin-top: 10%;
+}
+@media screen and (max-width: 1050px){
+.img2{
+	width: 500px;
+}
+.text5{
+	font-weight: bolder;
+	font-size: 45px;
+	text-align: center;
+}
+.text6{
+	font-size: 10px;
+	color: grey;
+	text-align: center;
+	padding: 2%;
+	margin: 2%;
+}
+.part6{
+	margin-top: 3%;
+}
+.row1{
+	padding-left:8% ;
+	padding-right: 8%;
+}
+}
+
+@media screen and (max-width: 1050px){
+.img2{
+	width: 440px;
+}
+.text5{
+	font-weight: bolder;
+	font-size: 40px;
+	text-align: center;
+}
+.text6{
+	font-size: 8px;
+	color: grey;
+	text-align: center;
+	padding: 2%;
+	margin: 2%;
+}
+.part6{
+	margin-top: 3%;
+}
+.row1{
+	padding-left:6% ;
+	padding-right: 6%;
+}
+.part6{
+	margin-top: 2%;
+}
+
+}
+
+@media screen and (max-width: 770px){
+.img2{
+	width: 380px;
+}
+.text5{
+	font-weight: bolder;
+	font-size: 33px;
+	text-align: center;
+}
+.text6{
+	font-size: 6px;
+	color: grey;
+	text-align: center;
+	padding: 2%;
+	margin: 2%;
+}
+.part6{
+	margin-top: 3%;
+}
+.row1{
+	padding-left:5% ;
+	padding-right: 5%;
+}
+.part6{
+	margin-top: 2%;
+	/*background-color: rgb(53, 102, 135);
+*/}
+}
+
+@media screen and (max-width: 700px){
+.img2{
+	width: 320px;
+}
+}
+
+@media screen and (max-width: 605px){
+.img2{
+	width: 280px;
+}
+.part6{
+	margin-top: 1%;
+}
+}
+
+@media screen and (max-width: 560px){
+.img2{
+	width: 240px;
+}
+.text5{
+	font-weight: bolder;
+	font-size: 25px;
+	text-align: center;
+}
+.text6{
+	font-size: 12px;
+	color: grey;
+	text-align: center;
+	padding: 2%;
+	margin: 2%;
+}
+.part6{
+	margin-top: 3%;
+}
+.row1{
+	padding-left:3% ;
+	padding-right: 3%;
+}
+.btn1{
+/*	padding-left:30px ;
+	padding-right: 30px;*/
+	padding: 7px 24px;
+	background-color: rgb(10, 57, 89);
+	color: white;
+	margin-top: 7%;
+}
+}
+
+@media screen and (max-width: 480px){
+.img2{
+	width: 370px;
+}
+.textcontainer{
+	width: 90%;
+	text-align: center;
+	margin-left: 0px;
+}
+.right1{
+	width: 100%;
+	text-align: center;
+}
+.left1{
+	margin-left: 22%;
+}
+}
+
+@media screen and (max-width:370px){
+.img2{
+	width: 300px;
+}
+}
+
+.text7{
+	font-size: 26px;
+	font-weight: bolder;
+	padding-top: 3%;
+}
+
+
+/*shop by category tabber section*/
+/*upto here*/
+
+/*part7 styling*/
+.cardbelow{
+	box-shadow: 2px 2px 5px grey;
+	/*padding: 20px;*/
+}
+.img2{
+/*	height: 160px;*/
+	width: 160px;
+}
+.text8{
+	color: blue;
+}
+.cardbelowcontainer{
+	display: inline-flex;
+	padding-left: 4%;
+	padding-right: 10%;
+}
+
+
+/*upto here*/
+
+.cardbelow{
+	box-shadow: 3px 3px 5px grey;
+	background-color: white;
+	margin: 1%;
+}
+.img3{
+	margin: 7px;
+}
+.btn1{
+	background-color: ;
+}
+.box1 {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.btn1 {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 5px 10px;
+}
+.text11{
+	padding-top: 10px;
+}
+
+
+/*@media screen and (max-width: 1300px){
+.loop1{
+
+}
+
+}*/
+
+.cardbelow2{
+	box-shadow: 3px 3px 5px grey;
+	background-color: white;
+	margin: 1% 42%;
+}
+/*.cardbelow3{
+	box-shadow: 3px 3px 5px grey;
+	background-color: white;
+	margin: 1% 22%;
+	display: inline-block;
+}*/
+
+.cardbelow3{
+	display: inline-flex;
+}
+.cardbelow4{
+	display: inline-flex;
+}
+.cardbelow5{
+	display: inline-flex;
+}
+.cardbelow6{
+	display: inline-flex;
+}
+.img-cloth{
+	width: 195px;
+	height: 245px;
+}
+.cardbelow7{
+	display: inline-flex;
+}
+.cardbelow8{
+	display: inline-flex;
+}
+
+
+
+
