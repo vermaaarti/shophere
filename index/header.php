@@ -23,7 +23,7 @@
 <span style="font-size:30px;cursor:pointer;color:white;" onclick="openNav()">&#9776; <b>SHOPEO</b> </span>
 </div>
 
-<div class="rightdiv">
+<div class="rightdiv mt-2">
 <i class="fa-solid fa-magnifying-glass fa-lg" style="color:white;"></i>
 <i class="fa-regular fa-heart fa-lg" style="color: white;"></i>
 </div>
