@@ -10,34 +10,34 @@
 <div class="row">
 	<div class="secondrow">
 	<div class="col1">
-		<p class="text13">About Us</p>
+		<p class="text13">About_Us</p>
 		<ul>
-			<a href=""><li><i class="fa-solid fa-arrows-turn-right"></i> About_Us</li></a>
-			<a href=""><li><i class="fa-solid fa-arrows-turn-right"></i> Privecy_Policy</li></a>
-			<a href=""><li><i class="fa-solid fa-arrows-turn-right"></i>Terms_&_Condition</li></a>
-			<a href=""><li><i class="fa-solid fa-arrows-turn-right"></i> Delivery</li></a>
+			<a href=""><li><!-- <i class="fa-solid fa-arrows-turn-right"></i>  -->About_Us</li></a>
+			<a href=""><li><!-- <i class="fa-solid fa-arrows-turn-right"></i> --> Privecy_Policy</li></a>
+			<a href=""><li><!-- <i class="fa-solid fa-arrows-turn-right"></i> -->Terms_&_Condition</li></a>
+			<a href=""><li><!-- <i class="fa-solid fa-arrows-turn-right"></i> --> Delivery</li></a>
 		</ul>
 	</div>
 	<div class="col2">
-		<p class="text13">Customer Service</p>
+		<p class="text13">Customer_Service</p>
 		<ul>
-			<a href=""><li><i class="fa-solid fa-arrows-turn-right"></i> Contact</li></a>
-			<a href=""><li><i class="fa-solid fa-arrows-turn-right"></i> Returns</li></a>
-			<a href=""><li><i class="fa-solid fa-arrows-turn-right"></i> Brands</li></a>
-			<a href=""><li><i class="fa-solid fa-arrows-turn-right"></i> FAQ</li></a>
+			<a href=""><li><!-- <i class="fa-solid fa-arrows-turn-right"></i> --> Contact</li></a>
+			<a href=""><li><!-- <i class="fa-solid fa-arrows-turn-right"></i> --> Returns</li></a>
+			<a href=""><li><!-- <i class="fa-solid fa-arrows-turn-right"></i> --> Brands</li></a>
+			<a href=""><li><!-- <i class="fa-solid fa-arrows-turn-right"></i> --> FAQ</li></a>
 		</ul>
 	</div>
 	<div class="col3">
-		<p class="text13">My Account</p>
+		<p class="text13">My_Account</p>
 		<ul>
-			<a href=""><li><i class="fa-solid fa-arrows-turn-right"></i>My_Account</li></a>
-			<a href=""><li><i class="fa-solid fa-arrows-turn-right"></i> Order_History</li></a>
-			<a href=""><li><i class="fa-solid fa-arrows-turn-right"></i> Newsletter</li></a>
-			<a href=""><li><i class="fa-solid fa-arrows-turn-right"></i> Gift_Certificate</li></a>
+			<a href=""><li><!-- <i class="fa-solid fa-arrows-turn-right"></i> -->My_Account</li></a>
+			<a href=""><li><!-- <i class="fa-solid fa-arrows-turn-right"></i> --> Order_History</li></a>
+			<a href=""><li><!-- <i class="fa-solid fa-arrows-turn-right"></i> --> Newsletter</li></a>
+			<a href=""><li><!-- <i class="fa-solid fa-arrows-turn-right"></i> --> Gift_Certificate</li></a>
 		</ul>
 	</div>
 	<div class="col4">
-		<p class="text13">News letter</p>
+		<p class="text13">News_letter</p>
 		<form>
 			<div style="display: inline-flex;"><input type="text" name="email" placeholder="your email" class="newscontainer">
 			<button style="padding: 15px;">Subscribe</button></div>

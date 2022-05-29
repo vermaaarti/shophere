@@ -2,3 +2,10 @@
 	font-size: 1.7rem;
 	font-weight: bold;
 }
+p ,ul li{
+	line-height: 0.2rem;
+	font-size: 0.9rem;
+}
+ul li{
+	list-style-position: outside;
+}

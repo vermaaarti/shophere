@@ -1,3 +1,12 @@
+/*navbar fixed top*/
+ /*.scrolled {
+  background-color: blue !important;
+  transition: background-color 200ms linear;
+}*/
+.nav-colored { background-color:#000; }
+.nav-transparent { background-color:transparent;}
+/*upto here*/
+
 /*responsive nav bar*/
 body {
   font-family: 'Lato', sans-serif;

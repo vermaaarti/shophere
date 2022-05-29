@@ -19,22 +19,22 @@
 <form class="m-5">
   <h4 class="text-center">Become Seller</h4>
   <div class="mb-3">
-    <label for="shopname" class="form-label">Shop Name</label>
+    <label for="shopname" class="form-label"><b>Shop Name</b></label>
     <input type="text" class="form-control" id="shop1" aria-describedby="shopHelp">
   </div>
   <div class="mb-3">
-    <label for="email" class="form-label">Email</label>
+    <label for="email" class="form-label"><b>Email</b></label>
     <input type="email" class="form-control" id="email1" aria-describedby="emailHelp">
   </div>
   <div class="mb-3">
-    <label for="phone" class="form-label">Phone</label>
+    <label for="phone" class="form-label"><b>Phone</b></label>
     <input type="text" class="form-control" id="phone1" aria-describedby="phoneHelp">
   </div>
   <div class="mb-3">
-    <label for="exampleInputPassword1" class="form-label">Password</label>
+    <label for="exampleInputPassword1" class="form-label"><b>Password</b></label>
     <input type="password" class="form-control" id="exampleInputPassword1">
   </div>
-  <div class="text-center"><button type="submit" class="btn btn-primary">Submit</button></div>
+  <div class="text-center"><button type="submit" class="btn btn-primary"><b>Submit</b></button></div>
 </form>
 </div>
 
