@@ -16,11 +16,11 @@
 
 <section class="container-fluid" style="padding:6% 20%;">
   <div class="row">
-<div class=" bg-light">
+<div class=" bg-light" style="box-shadow: 2px 2px 4px black;">
   <h1 class="text-center mt-5">Welcome to Venders Dashboard</h1>
 
 <div class="row">
-  <div class="col-3 m-3 rounded" style="background-color:rgb(220, 222, 220);">
+  <div class="col-3 m-3 rounded" style="background-color:rgb(220, 222, 220);box-shadow: 2px 2px 4px grey;">
     <ul class="list-unstyled" style="font-size:1.5rem;">
       <a style="text-decoration: none;" href=""><li class="m-2 ps-5">Dashboard</li></a>
       <a style="text-decoration: none;" href=""><li class="m-2 ps-5">Products</li></a>
@@ -33,14 +33,14 @@
     </ul>
   </div>
    <div class="col-8">
-    <div class="text-center"> <button class="btn text-light mb-5 mt-5">Add new product</button></div>
+    <div class="text-center"> <a href="addProduct.php"><button class="btn text-light mb-5 mt-5">Add new product</button></a></div>
      <div>
       
       <div class="d-flex">
        <div class="dropdown">
-  <a href="#"><button class="btn btn-secondary dropdown-toggle m-2" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+  <button class="btn btn-secondary dropdown-toggle m-2" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
    Filter Product
-  </button></a>
+  </button>
   <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
     <li><a class="dropdown-item" href="#">All Dates</a></li>
     <li><a class="dropdown-item" href="#">Product Name</a></li>

@@ -3,7 +3,7 @@
 
 <div id="myNav" class="overlay">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <div class="overlay-content">
+  <div class="overlay-content"> 
   <!--home-->
   <a href="#"><i class="fa-solid fa-house-user"></i></a>
   <!--shop-->
